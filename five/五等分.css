@@ -1,0 +1,44 @@
+body{
+    font-family: 'Noto Serif TC', serif;
+}
+.i{
+    font-size: 15px;
+    line-height: 18px;
+    color: #eb6100;
+}
+p.lh{
+    line-height: 40px;
+}
+.sc{
+    font-size: 18px; 
+    width: 50%; 
+    text-indent:2em;
+}
+
+#Div1{
+    margin:4px,0px; /*元素與元素上下的間距為4px*/
+    float:left;
+}
+#Div2{
+    margin:4px,0px;
+    float:left;
+}
+#Div3{
+    margin:4px,0px;
+    float:left;
+}
+#Div4{
+    margin:4px,0px;
+    float:left;
+}
+#Div5{
+    margin:4px,0px;
+    float:left;
+}
+#Div6{
+    margin:4px,0px;
+    float:left;
+}
+.p_x{
+    font-size: 20px;
+}
